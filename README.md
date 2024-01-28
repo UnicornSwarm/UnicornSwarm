@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @UnicornSwarm
 - 👀 I’m interested in making people smile! 
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on my Animation Software!
 - 📫 How to reach me... you have to reach.
 
 <!---

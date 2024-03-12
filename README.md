@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnicornSwarm
 - 👀 I’m interested in making people smile! 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Java Script, HTML, CSS.
 - 📫 How to reach me... you have to reach.
 
 <!---
